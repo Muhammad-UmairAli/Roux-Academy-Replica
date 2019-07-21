@@ -1,0 +1,214 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+body{
+	background-color: #414042;
+}
+#bannar{
+	margin-left: 135px;
+	margin-right: 135px;
+	width: 80%;
+	height: 420px;
+
+}
+.img{
+	width: 80%;
+	height: 420px;	
+	position: absolute;
+
+}
+#menu{
+	position: absolute;
+	float: left;
+	width: 12%;
+	height: 170px;
+	background-color: black;
+
+}
+#menu h1{
+	font-size:100px;
+	color: white;
+}
+#menu p{
+	font-size: 20px;
+	color: white;
+}
+.R{
+	color: #FBAE2C;
+}
+.A{
+	color: #B783BA;
+}
+#menu1{
+	float: right;
+	opacity: 0.8;
+	width: 85%;
+	height: 60px;
+	background-color: black;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	color: white;
+	float: left;
+	padding: 2px;
+	margin-left: 80px;
+	margin-top: 35px;
+}
+#menu2{
+	float: right;
+	opacity: 0.9;
+	width: 25%;
+	height: 250px;
+	background-color: black;
+	padding: 20px;
+	margin-top: 30px;
+	color: white;
+}
+#menu2 h2{
+	padding: 3px;
+	margin: 3px;
+	margin-top: 14px;
+}
+.ino{
+	color: #FBAE2C;
+	font-size:25px;
+}
+.cre{
+	color: #A858A3;
+	font-size:25px;
+}
+.des{
+	color: #0263AE;
+	font-size:25px;
+
+}
+.margin{
+	margin-left: 135px;
+}
+#spotlight{
+	float: left;
+	width: 27%;
+	height: 275px;
+	background-color: #A858A3;
+	
+}
+#show{
+	float: left;
+	width: 26%;
+	height: 275px;
+	background-color: #FBAE2C;
+	
+}
+#events{
+	float: left;
+	width: 27%;
+	height: 275px;
+	background-color: #0263AE;
+	
+}
+.move{
+	margin-left: 35px;
+	margin-top: 2px;
+}
+#registration{
+	margin-left: 135px;
+	float: left;
+	width: 53%;
+	height: auto;
+	background-color: #FFFFFF;
+	color: #414042;
+}
+#registration p{
+	font-size: 20px;
+}
+#alum{
+	float: left;
+	width: 27%;
+	height: 275px;
+	background-color:#FBAE2C ;
+}
+.Visit{
+	text-decoration:none;
+	font-size: 20px;
+	color: #0263AE;
+	float: right;
+	font-weight: bold;
+}
+#social{
+	float: left;
+	width: 27%;
+	height: 140px;
+	background-color:#A858A3 ;
+
+}
+#find{
+	float: left;
+	width: 27%;
+	height: auto;
+	background-color:#0263AE;
+
+}
+#find h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+	color:white;
+
+}
+#find p a{
+	margin-top: 20px;
+	margin-left: 20px;
+	color:white;
+	text-decoration:none;
+	padding-top: 2px;
+}
+#find p {
+	margin-top: 8px;
+	margin-bottom: 8.5px;
+	margin-left: 20px;
+	color:white;
+	font-size: 20px;
+}
+#footer{
+	float: left;
+	width: 80%;
+	height: 250px;
+	background-color: rgb(249, 228, 130);
+	margin-left: 135px;
+}
+#footer table{
+	padding-left: 10px;
+}
+#footer table tr td{
+	padding:10px;
+}
+#footer table th{
+	font-size: 20px;
+}
+
+#table1{
+	border-left: 1px solid black;
+	position: relative;
+	top: 35px;
+	float: left;
+}
+#table2{
+	border-left: 1px solid black;
+	position: relative;
+	top: 35px;
+	float: left;
+}
+#table3{
+	border-left: 1px solid black;
+	position: relative;
+	top: 35px;
+	float:left;
+}
+#contact{
+	position: relative;
+	left: 30px;
+	top: 42px;
+}
